@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-**Pablo J. Veintimilla Vargas**, I'm a ✨ Software Architect ✨ from Ecuador.
+**Pablo J. Veintimilla Vargas**, I'm a ✨ CTO and Software Architect ✨ from Ecuador.
 
-- 🔭 I’m currently working at PPM.
-- 🌱 I’m currently learning blockchain, AI.
+- 🔭 I’m currently working at PPM as CTO
+- 🌱 I’m currently learning Product Design and AI.
 
 <!---
 Here are some ideas to get you started:
